@@ -42,7 +42,7 @@ As night-time images were included in all datasets, it proves extremely difficul
 The active directory of the program already contains the datasets and the corresponding `GroundTruth` used for evaluation and their output masks from the program. However, if you would like to reproduce the masks, you may delete all folders ending with `_mask` and rerun the program.
 
 ```
-1. Unzip the DatasetsandMasks.zip file into the same directory as the main.py file.
+1. Extract the DatasetsandMasks.zip file into the same directory as the main.py file.
 2. From the Anaconda Navigator, launch the Spyder IDE.
 3. Run the main.py file.
 ```
