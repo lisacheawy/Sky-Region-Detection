@@ -34,9 +34,9 @@ As night-time images were included in all datasets, it proves extremely difficul
 ## Usage
 The active directory of the program already contains the datasets and the corresponding `GroundTruth` used for evaluation and their output masks from the program. However, if you would like to reproduce the masks, you may delete all folders ending with `_mask` and rerun the program.
 <br/><br/>
-To test with other datasets, ensure that their folders are placed in the same directory as the `18111195.py` file. Also ensure that their ground truths are placed into the `GroundTruths` folder and labelled with their corresponding names.
+To test with other datasets, ensure that their folders are placed in the same directory as the `main.py` file. Also ensure that their ground truths are placed into the `GroundTruths` folder and labelled with their corresponding names.
 
 ```
 1. From the Anaconda Navigator, launch the Spyder IDE.
-2. Run the `18111195.py` file.
+2. Run the `main.py` file.
 ```
