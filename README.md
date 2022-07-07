@@ -1,6 +1,6 @@
 # Sky Region Detection
 
-###Introduction
+### Introduction
 This is a sky region detection program that is able to extract regions of the sky from several datasets with varying landscapes and illumination. It employs contour validation and edge detection without the use of deep neural networks. The algorithm was tested on the following datasets which can be obtained from https://cs.valdosta.edu/~rpmihail/skyfinder/images/index.html :
 * 1093, 4795, 8438 and 10870 during development 
 * 4232, 8438, 9483 and 10917 during evaluation
